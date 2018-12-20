@@ -88,3 +88,7 @@
 .plusmoins {
 	margin: 0 0 12em 0;
 }
+
+.y:hover > dt {
+	color: #ff625d;
+}
