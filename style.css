@@ -45,7 +45,7 @@
 }
 
 .jumbotron {
-	margin: 12em 0 12em 0;
+	margin: 11em 0 9em 0;
 }
 
 .rounded-circle {
@@ -66,7 +66,29 @@
     line-height: normal;
 }
 
+.intro-container {
+	margin: 0 10% 9em 10%;
+}
+
 .title3 {
+	font-size: 3em;
+	font-weight: bolder;
+	line-height: normal;
+	color: #000;
+	margin: 0 0 0.5em 0;
+}
+
+.link-color {
+	color: #ff625d;
+}
+
+.link-color:hover {
+	color: #ff625d;
+	text-decoration: underline;
+	opacity: 0.7; 
+}
+
+.title4 {
 	font-size: 5em;
 	font-weight: bolder;
 	line-height: normal;
